@@ -1,0 +1,99 @@
+{
+    "basics":{
+       "name":"Adam Zartin",
+       "label":"Software Engineer",
+       "picture":"",
+       "email":"adamzartin@gmail.com",
+       "phone":"(437) 345-0874",
+       "website":"http://johndoe.com",
+       "summary":"Software Engineer",
+       "location":{
+          "address":"42 Charles Street East",
+          "postalCode":"M4Y 1T1",
+          "city":"Toronto",
+          "countryCode":"CA",
+          "region":"Ontario"
+       },
+       "profiles":[
+          {
+             "network":"Github",
+             "username":"Zartinad",
+             "url":"https://github.com/Zartinad"
+          },
+          {
+             "network":"LinkedIn",
+             "username":"adam-zartin",
+             "url":"https://www.linkedin.com/in/adam-zartin/"
+          }
+       ]
+    },
+    "work":[
+       {
+          "company":"Oracle",
+          "position":"Software Engineer Intern",
+          "website":"https://www.oracle.com/ca-en/index.html",
+          "startDate":"2020-05-15",
+          "endDate":"2021-04-30",
+          "summary":"Developed different microservices and libraries for Oracle's CX platform",
+          "highlights":[
+             
+          ]
+       }
+    ],
+    "volunteer":[
+       
+    ],
+    "education":[
+       {
+          "institution":"University of Toronto",
+          "area":"Computer Science",
+          "studyType":"Bachelor of Science",
+          "startDate":"2017-09-01",
+          "endDate":"2022-05-01",
+          "gpa":"4.6",
+          "courses":[
+             "DB1101 - Basic SQL"
+          ]
+       }
+    ],
+    "awards":[
+       {
+          "title":"Computer Science",
+          "date":"2017-05-01",
+          "awarder":"International School of Manila",
+          "summary":"There is no spoon."
+       }
+    ],
+    "publications":[
+       
+    ],
+    "skills":[
+       {
+          "name":"Web Development",
+          "level":"Master",
+          "keywords":[
+             "HTML",
+             "CSS",
+             "Javascript"
+          ]
+       }
+    ],
+    "languages":[
+       {
+          "language":"English",
+          "fluency":"Native speaker"
+       }
+    ],
+    "interests":[
+       {
+          "name":"Wildlife",
+          "keywords":[
+             "Ferrets",
+             "Unicorns"
+          ]
+       }
+    ],
+    "references":[
+       
+    ]
+ }
